@@ -17,6 +17,12 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30pm",
       "reminder": true
+    },
+    {
+      "text": "task 1",
+      "day": "25 may 2000",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
