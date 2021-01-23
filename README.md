@@ -1,4 +1,4 @@
-# React Crash Course 2021 (Task Tracker App)
+# React (Task Tracker App)
 
 simple task planner, use of react router dom and json-server
 ![screenshot](https://github.com/prakashjha18/React-Task-Tracker/blob/main/screenshots/1.png)
